@@ -1,0 +1,6 @@
+{
+  "name": "OMSTORE.COM - Alternative Android App Store",
+  "description": "Modern alternative Android App & Game Store inspired by Google Play with real-time catalog, APK downloads, and Admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
